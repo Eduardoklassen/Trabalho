@@ -1,5 +1,4 @@
-# Eduardo-Klassen
- Trabalho
+
 # AtividadeInformatica
  Trabalho 
 # Programa informativo sobre John von Neumann
