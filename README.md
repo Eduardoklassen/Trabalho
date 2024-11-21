@@ -4,7 +4,7 @@
  Trabalho 
 # Programa informativo sobre John von Neumann
 
-Este repositório contém um programa Python interativo que apresenta informações sobre John von Neumann, suas contribuições para a, ciência da computação e outras áreas do conhecimento.
+Este repositório contém um programa Python muito interativo que apresenta informações sobre John von Neumann, suas contribuições para a, ciência da computação e outras áreas do conhecimento.
 
 ```python
 # Programa informativo sobre John von Neumann
@@ -24,7 +24,7 @@ def contribuicoes():
     )
 
 def artigos():
-    """Lista os principais artigos de João von Neumann."""
+    """Lista os principais artigos de John von Neumann."""
     return (
         
     )
