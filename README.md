@@ -19,13 +19,13 @@ def doutorado():
 def contribuicoes():
     """Retorna as contribuições de John von Neumann para a computação."""
     return (
-        
+        "Contribuições:\nMecânica Quântica: Formalizou a teoria quântica usando espaços de Hilbert e publicou Mathematical Foundations of Quantum Mechanics.\nTeoria dos Jogos: Co-criou a teoria dos jogos com Oskar Morgenstern, revolucionando a economia e as decisões estratégicas.\nArquitetura de Computadores: Desenvolveu a arquitetura de von Neumann, base dos computadores modernos, introduzindo o conceito de programas armazenados na memória.\nProjeto Manhattan: Contribuiu matematicamente para o desenvolvimento da bomba atômica.\nAutômatos Celulares e Computação: Iniciou estudos em sistemas auto-replicantes e teoria da computação."
     )
 
 def artigos():
     """Lista os principais artigos de John von Neumann."""
     return (
-        
+        "1. Mathematical Foundations of Quantum Mechanics (1932):\nLivro que formalizou a mecânica quântica com a teoria dos espaços de Hilbert, influenciando profundamente a física moderna.\n\n2. Zur Theorie der Gesellschaftsspiele (1928):\nArtigo pioneiro sobre a teoria dos jogos, introduzindo o conceito de equilíbrio de Nash para jogos de soma zero.\n\n3. Theory of Games and Economic Behavior (1944):\nLivro co-escrito com Oskar Morgenstern que fundou a teoria dos jogos aplicada à economia e às decisões estratégicas."
     )
 
 def citacoes():
